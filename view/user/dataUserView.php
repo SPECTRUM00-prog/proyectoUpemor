@@ -38,7 +38,7 @@
                 </div>
                 <div class="row justify-content-center mt-3">
                     <div class="col-md-6">
-                        <input type="password" id="password" name="password" class="form-control"
+                        <input type="<?= $tipoPassword ?>" id="password" name="password" class="form-control"
                             placeholder="Proporciona la contraseña" value="<?= $objUser->getPassword() ?>" required>
                     </div>
                 </div>
