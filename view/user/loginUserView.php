@@ -2,9 +2,8 @@
     <!-- oferta -->
     <div class="container">
         <div class="text-center max-w-700 mx-auto mb-4">
-            <h2 class="h3 fw-bold text-dark mb-2"><?= $titleDlg ?></h2>
-            <p class="text-muted">Proporciona los datos del nuevo usuario</p>
-
+            <h2 class="h3 fw-bold text-dark mb-2"> Login de Usuarios</h2>
+            <p class="text-muted">Proporciona los datos para autenticarte con tus credenciales de acceso</p>
             <!-- Sección de errores -->
             <p class="text-error">
                 <?php
@@ -13,33 +12,17 @@
             <?php
                 } ?>
             </p>
-
-            <form method="post" action="./new">
-                <div class="row justify-content-center mt-3">
-                    <div class="col-md-6">
-                        <input type="hidden" id="id" name="id" class="form-control" placeholder=""
-                            value="<?= $objUser->getId() ?>" required>
-                        <input type="text" id="name" name="name" class="form-control"
-                            placeholder="Proporciona el nombre" value="<?= $objUser->getName() ?>" required>
-                    </div>
-                </div>
+            <form method="post" action="./login">
                 <div class="row justify-content-center mt-3">
                     <div class="col-md-6">
                         <input type="email" id="email" name="email" class="form-control"
-                            placeholder="Proporciona el correo electrónico" value="<?= $objUser->getEmail() ?>"
-                            required>
+                            placeholder="Proporciona el correo electrónico" value="<?= $email ?>" required>
                     </div>
                 </div>
                 <div class="row justify-content-center mt-3">
                     <div class="col-md-6">
-                        <input type="text" id="phone" name="phone" class="form-control"
-                            placeholder="Proporciona el teléfono" value="<?= $objUser->getPhone() ?>" required>
-                    </div>
-                </div>
-                <div class="row justify-content-center mt-3">
-                    <div class="col-md-6">
-                        <input type="<?= $tipoPassword ?>" id="password" name="password" class="form-control"
-                            placeholder="Proporciona la contraseña" value="<?= $objUser->getPassword() ?>" required>
+                        <input type="password" id="password" name="password" class="form-control"
+                            placeholder="Proporciona la contraseña" value="<?= $password ?>" required>
                     </div>
                 </div>
                 <div class="row justify-content-center mt-3">
