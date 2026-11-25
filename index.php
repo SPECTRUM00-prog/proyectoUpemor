@@ -1,5 +1,6 @@
 <?php
 ob_start();
+session_start();
 require_once("./src/loader.php");
 //En que ruta se ejecuta el script
 $base = rtrim(str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'])), '/');

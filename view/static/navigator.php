@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-success sticky-top shadow-sm" aria-label="Navegación Principal">
     <div class="container">
         <h2 class="visually-hidden">Navegación Principal</h2>
-        <a class="navbar-brand d-lg-none fw-bold" href="<?= $base ?>/">UPEMOR</a>
+        <a class="navbar-brand d-lg-none fw-bold" href="#Inicio">UPEMOR</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain"
             aria-controls="navbarMain" aria-expanded="false" aria-label="Alternar navegación">
             <span class="navbar-toggler-icon"></span>
@@ -19,6 +19,11 @@
                             class="fa-solid fa-file-pen me-1"></i> Admisiones</a></li>
                 <li class="nav-item"><a class="nav-link" href="<?= $base ?>/#contacto"><i
                             class="fa-solid fa-envelope me-1"></i> Contacto</a></li>
+                <?php
+                if (isset($_SESSION["login"])) { ?>
+                <li class="nav-item"><a class="nav-link" href="<?= $base ?>/user/main"><i
+                            class="fa-solid fa-envelope me-1"></i> Usuarios</a></li><?php
+                                                                                    } ?>
             </ul>
         </div>
     </div>

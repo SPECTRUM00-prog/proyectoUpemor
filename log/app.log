@@ -282,3 +282,83 @@
 [2026-11-25 20:01:45] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
 [2026-11-25 20:01:45] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
 [2026-11-25 20:01:45] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:59:20] [INFO] Se ha creado el logger con exito
+[2026-11-25 20:59:20] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 20:59:20] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 20:59:20] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:59:20] [INFO] Se ha creado el frontController con exito
+[2026-11-25 20:59:57] [INFO] Se ha creado el logger con exito
+[2026-11-25 20:59:57] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 20:59:57] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 20:59:57] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:59:57] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:00:02] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:00:02] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:00:02] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:00:02] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:00:02] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:00:09] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:00:09] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:00:09] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:00:09] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:00:09] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:03:09] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:03:09] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:03:09] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:03:09] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:03:09] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:03:09] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:03:09] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:03:09] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:03:09] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:03:09] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:00] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:00] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:00] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:00] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:00] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:00] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:00] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:00] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:00] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:00] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:01] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:01] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:01] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:01] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:01] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:11] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:11] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:11] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:11] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:11] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:11] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:11] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:11] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:11] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:11] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:18] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:18] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:18] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:18] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:18] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:19] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:19] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:19] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:19] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:19] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:20] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:20] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:20] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:20] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:20] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:21] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:21] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:21] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:21] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:21] [INFO] Se ha creado el frontController con exito
+[2026-11-25 21:06:22] [INFO] Se ha creado el logger con exito
+[2026-11-25 21:06:22] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 21:06:22] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 21:06:22] [INFO] Se ha probado la conexión con exito
+[2026-11-25 21:06:22] [INFO] Se ha creado el frontController con exito

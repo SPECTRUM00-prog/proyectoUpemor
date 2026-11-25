@@ -42,6 +42,27 @@ class FrontController
             case "/ofertaAcademica/delete":
                 ControllerDegree::getInstance()->delete();
                 break;
+
+            //Rutas de usuario
+            case "/user/main":
+                ControllerUser::getInstance()->main();
+                break;
+            case "/user/new":
+                ControllerUser::getInstance()->new();
+                break;
+            case "/user/edit":
+                ControllerUser::getInstance()->edit();
+                break;
+            case "/user/delete":
+                ControllerUser::getInstance()->delete();
+                break;
+            case "/user/login":
+                ControllerUser::getInstance()->login();
+                break;
+            case "/user/logout":
+                ControllerUser::getInstance()->logout();
+                break;
+
             default:
                 require_once("./view/admisiones.php");
                 break;
