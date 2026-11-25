@@ -258,3 +258,27 @@
 [2026-11-20 20:51:46] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
 [2026-11-20 20:51:46] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
 [2026-11-20 20:51:46] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:01:23] [INFO] Se ha creado el logger con exito
+[2026-11-25 20:01:23] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 20:01:27] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 20:01:27] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:01:32] [INFO] Se ha creado el logger con exito
+[2026-11-25 20:01:32] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 20:01:32] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 20:01:32] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:01:33] [INFO] Se ha creado el logger con exito
+[2026-11-25 20:01:33] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 20:01:33] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 20:01:33] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:01:41] [INFO] Se ha creado el logger con exito
+[2026-11-25 20:01:41] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 20:01:41] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 20:01:41] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:01:42] [INFO] Se ha creado el logger con exito
+[2026-11-25 20:01:42] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 20:01:42] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 20:01:42] [INFO] Se ha probado la conexión con exito
+[2026-11-25 20:01:45] [INFO] Se ha creado el logger con exito
+[2026-11-25 20:01:45] [INFO] Se inicia proceso de creación de conexión {"clase":"MyConnection"}
+[2026-11-25 20:01:45] [INFO] Se ha generado con exito la conexión a la base de datos {"clase":"MyConnection"}
+[2026-11-25 20:01:45] [INFO] Se ha probado la conexión con exito
