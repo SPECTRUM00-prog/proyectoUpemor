@@ -27,10 +27,10 @@
                 </div>
                 <div class="row justify-content-center mt-3">
                     <div class="col-md-2">
-                        <input type="submit" class="btn btn-outline-primary" value="Guardar">
+                        <input type="submit" class="btn btn-outline-primary" value="Login">
                     </div>
                     <div class="col-md-2">
-                        <a href="./main">
+                        <a href="../">
                             <input type="button" class="btn btn-outline-secondary" value="Cancelar">
                         </a>
                     </div>
