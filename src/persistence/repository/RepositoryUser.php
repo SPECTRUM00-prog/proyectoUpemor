@@ -27,4 +27,22 @@ class RepositoryUser extends Repository
             "password" => $object->getPassword()
         ];
     }
+
+    public function getByEmail(string $email): ?User
+    {
+        try {
+            $sql = "SELECT * FROM {$this->table} WHERE email = :email LIMIT 1";
+            $parameters = [":email" => $email];
+            $resultset = MyConnection::getInstance()
+                ->query($sql, $parameters);
+            $object = null;
+            foreach ($resultset as $row) {
+                $object = $this->toObject($row);
+            }
+            return $object;
+        } catch (Exception $ex) {
+            SimpleLogger::getInstance()->error("Se ha generado un error al obtener la funcion getByEmail", ["error" => $ex->getMessage(), "clase" => get_class($this)]);
+            throw $ex;
+        }
+    }
 }
