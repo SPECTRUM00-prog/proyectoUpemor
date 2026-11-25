@@ -1,0 +1,148 @@
+/* ==========================================================================
+   Estilos Personalizados - UPEMOR (style.css)
+   ========================================================================== */
+
+:root {
+  --upemor-green: #006837;
+  --upemor-dark-green: #004d28;
+  --upemor-gold: #ffc107;
+  --upemor-light-gray: #f8f9fa;
+  --upemor-dark-gray: #212529;
+}
+
+body {
+  font-family:
+    "Segoe UI",
+    system-ui,
+    -apple-system,
+    sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+  line-height: 1.6;
+}
+
+/* Personalización de colores Institucionales */
+.bg-primary {
+  background-color: var(--upemor-green) !important;
+}
+
+.text-primary {
+  color: var(--upemor-green) !important;
+}
+
+.btn-primary {
+  background-color: var(--upemor-green);
+  border-color: var(--upemor-green);
+  color: #ffffff;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--upemor-dark-green);
+  border-color: var(--upemor-dark-green);
+  color: #ffffff;
+}
+
+.btn-outline-primary {
+  color: var(--upemor-green);
+  border-color: var(--upemor-green);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--upemor-green);
+  border-color: var(--upemor-green);
+  color: #ffffff;
+}
+
+/* Clases de apoyo institucionales */
+.bg-upemor {
+  background-color: var(--upemor-green) !important;
+}
+
+.text-upemor {
+  color: var(--upemor-green) !important;
+}
+
+.btn-upemor {
+  background-color: var(--upemor-green);
+  border-color: var(--upemor-green);
+  color: #ffffff;
+}
+
+.btn-upemor:hover {
+  background-color: var(--upemor-dark-green);
+  border-color: var(--upemor-dark-green);
+  color: #ffffff;
+}
+
+/* Logotipo */
+.logo-img {
+  transition: transform 0.3s ease;
+}
+
+.logo-img:hover {
+  transform: scale(1.05);
+}
+
+/* Enlaces del menú y pie de página */
+.navbar-nav .nav-link {
+  transition: color 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--upemor-gold) !important;
+}
+
+.hover-light:hover {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
+.hover-warning:hover {
+  color: var(--upemor-gold) !important;
+}
+
+/* Sección Hero */
+.hero-section {
+  background: linear-gradient(135deg, var(--upemor-green) 0%, #003319 100%);
+  box-shadow: inset 0 -10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.hero-bg-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.05) 0%,
+    rgba(0, 0, 0, 0.3) 100%
+  );
+  pointer-events: none;
+}
+
+/* Efectos Hover */
+.hover-lift {
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12) !important;
+}
+
+.hover-primary:hover {
+  color: var(--upemor-green) !important;
+}
+
+/* Clases Útiles */
+.display-none {
+  display: none !important;
+}
+
+h2 {
+  color: #003319;
+}
