@@ -27,10 +27,10 @@ class ControllerUser extends Controller
     }
     public function main(): void
     {
-        $listDegree = array();
+        $listUser = array();
         $errors = [];
         try {
-            $listDegree = $this->getRepository()->getAll();
+            $listUser = $this->getRepository()->getAll();
         } catch (Exception $ex) {
             $errors[] = $ex->getMessage();
         }
@@ -40,6 +40,7 @@ class ControllerUser extends Controller
     public function new(): void
     {
         $titleDlg = "Agregar información de usuario";
+        $tipoPassword = "password";
         $objUser = new User();
         $errors = [];
 
